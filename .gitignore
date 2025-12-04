@@ -20,8 +20,8 @@ ENV/
 .ipynb_checkpoints/
 
 # Data and results (large files)
-new_results/*.csv
-new_results/*.parquet
+# new_results/*.csv
+# new_results/*.parquet
 old_results/*.csv
 old_results/*.parquet
 
